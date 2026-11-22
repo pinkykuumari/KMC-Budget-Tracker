@@ -1,0 +1,25 @@
+
+OFFICIAL Special_Development_Projects_/_Works Engineering 100.000 0.000
+OFFICIAL Payment_of_Medical_Insurance_Bills M&HS 215.000 0.000
+OFFICIAL Automation_of_Various_Departments I.T 100.000 0.000
+OFFICIAL Development_and_Improvement_of_Roads Engineering 400.000 0.000
+OFFICIAL Dedicated_Development_Grant_for_Minority_Community Engineering 100.000 0.000
+OFFICIAL Annual_Maintenance_of_Roads,_Footpaths,_Bridges Engineering 480.000 0.000
+OFFICIAL Development_Work_for_Union_Committees_(UCs) Engineering 1200.000 0.000
+OFFICIAL Development_Work_for_Parks_of_Union_Committees P&H 300.000 0.000
+OFFICIAL Lungs_of_Karachi_(Urban_Forest) P&H 100.000 0.000
+OFFICIAL Solarization_Initiatives_for_all_UCs Engineering 500.000 0.000
+OFFICIAL Block_Allocation_for_New_Development_Schemes Engineering 500.000 0.000
+OFFICIAL Payment_to_Others_for_Service_Rendered Various_Departments 100.000 0.000
+OFFICIAL National_Celebrations_Campaign C&S 100.000 0.000
+OFFICIAL Grant_for_Medical_Institutions M&HS 62.500 0.000
+OFFICIAL Govt._Grant_for_TMC_Pensioners_(Court_Order) F&P 4800.000 0.000
+OFFICIAL Cleaning_and_Desilting_of_Storm_Water_Drains Municipal_Services 800.000 0.000
+OFFICIAL ADP:_Infrastructure_(Roads,_Flyovers,_Bridges) District_ADP 2170.865 0.000
+OFFICIAL ADP:_Municipal_Services District_ADP 55.215 0.000
+OFFICIAL ADP:_Health District_ADP 60.000 0.000
+OFFICIAL ADP:_Culture_and_Tourism_(Culture_and_Sports) District_ADP 379.001 0.000
+OFFICIAL ADP:_Culture_and_Tourism_(Zoo_and_Safari) District_ADP 219.008 0.000
+OFFICIAL ADP:_Parks_and_Horticulture District_ADP 906.208 0.000
+OFFICIAL ADP:_Information_Technology District_ADP 35.752 0.000
+OFFICIAL ADP:_Block_Allocation_for_New_Schemes District_ADP 5173.950 0.000
